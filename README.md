@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Header](https://i.imgur.com/J4pTt0F.png) <!-- Replace with your own banner image -->
-
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1F75FE&width=500&lines=Hi%2C+I'm+Krishna!;Data+Science+%7C+ML+%7C+Computer+Vision;Always+learning+something+new)](https://git.io/typing-svg)
 
@@ -8,13 +5,10 @@
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Sign Language Recognition** & **Gesture-to-Speech** projects  
-- 🌱 I’m deep-diving into **Machine Learning**, **Data Science**, and **Computer Vision**  
-- 👯 I’m looking to collaborate on **AI/ML projects** that solve real-world problems  
-- 🤔 I’m seeking help with **optimizing gesture recognition models** for speed & accuracy  
+- 🌱 I’m deep-diving into **Machine Learning**, **Data Science**, and **Computer Vision**    
 - 💬 Ask me about **Python, Pandas, OpenCV, MediaPipe, and ML algorithms**  
-- 📫 Reach me at: **[Your Email]** | **[LinkedIn](https://linkedin.com/in/your-linkedin)**  
+- 📫 Reach me at: **krishnasharma18032005@gmail.com** | **www.linkedin.com/in/krishna-sharma-35a35531a**  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: *I turn math into magic through code* ✨  
 
 ---
 
@@ -36,16 +30,11 @@
 
 ---
 
-## 📌 Featured Projects  
-- 🎯 **Sign Language Recognition** – MediaPipe Holistic + ML for full-hand gesture detection  
-- 🗣 **Gesture-to-Speech AI** – Real-time translation of sign language into spoken words  
-
----
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishna-sharma-35a35531a)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnasharma18032005@gmail.com)  
 
 ---
 
-💡 *"Code with purpose, learn without limits."*
+💡 *"Keep Learning"*
