@@ -3,9 +3,7 @@
 - 🔭 I’m currently working on **Sign Language Recognition** & **Gesture-to-Speech** projects using MediaPipe + OpenCV.  
 - 🌱 I’m currently learning **Machine Learning**, **Data Science**, and **Computer Vision** in depth.   
 - 💬 Ask me about **Python, Pandas and Machine Learning algorithms**.  
-- 📫 How to reach me: **krishnasharma18032005@gmail.com** | **www.linkedin.com/in/
-krishna-sharma-35a35531a
-**  
+- 📫 How to reach me: **krishnasharma18032005@gmail.com** | **www.linkedin.com/in/krishna-sharma-35a35531a**  
 - 😄 Pronouns: He/Him  
 ---
 
