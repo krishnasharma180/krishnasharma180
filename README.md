@@ -24,12 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
-
----
-
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishna-sharma-35a35531a)  
